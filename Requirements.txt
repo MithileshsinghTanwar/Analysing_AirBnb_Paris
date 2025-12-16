@@ -1,0 +1,14 @@
+1. Jupyter Notebook
+
+2. Libraries 
+
+     - pandas 
+
+     - numpy
+
+     - matplotlib
+
+     - seaborn 
+
+     - scipy from stats
+
